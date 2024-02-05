@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3B1EAE99-013D-42E0-8DB9-01982648EA6D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Ezer</RootNamespace>
+    <AssemblyName>Ezer</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\Dal.cs" />
+    <Compile Include="Db\Booked_cardsDb.cs" />
+    <Compile Include="Db\Booked_packagesDb.cs" />
+    <Compile Include="Db\Business_ownerDb.cs" />
+    <Compile Include="Db\CardsDb.cs" />
+    <Compile Include="Db\DonorsDb.cs" />
+    <Compile Include="Db\GeneralDb.cs" />
+    <Compile Include="Db\MembersDb.cs" />
+    <Compile Include="Db\OrdersDb.cs" />
+    <Compile Include="Db\PackagesDb.cs" />
+    <Compile Include="Db\PaymentsDb.cs" />
+    <Compile Include="Db\ProductsDb.cs" />
+    <Compile Include="Db\WinnersDb.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmBookedCaeds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmBookedCaeds.Designer.cs">
+      <DependentUpon>FrmBookedCaeds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmBusiness_owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmBusiness_owner.Designer.cs">
+      <DependentUpon>FrmBusiness_owner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmCards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmCards.Designer.cs">
+      <DependentUpon>FrmCards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmDonors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmDonors.Designer.cs">
+      <DependentUpon>FrmDonors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmMembers.Designer.cs">
+      <DependentUpon>FrmMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmOrders.Designer.cs">
+      <DependentUpon>FrmOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmPackages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmPackages.Designer.cs">
+      <DependentUpon>FrmPackages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmPayments.Designer.cs">
+      <DependentUpon>FrmPayments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmProducts.Designer.cs">
+      <DependentUpon>FrmProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmWinners.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmWinners.Designer.cs">
+      <DependentUpon>FrmWinners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Booked_cards.cs" />
+    <Compile Include="Models\Booked_packages.cs" />
+    <Compile Include="Models\Business_owner.cs" />
+    <Compile Include="Models\Cards.cs" />
+    <Compile Include="Models\Donors.cs" />
+    <Compile Include="Models\Members.cs" />
+    <Compile Include="Models\Orders.cs" />
+    <Compile Include="Models\Packages.cs" />
+    <Compile Include="Models\Payments.cs" />
+    <Compile Include="Models\Products.cs" />
+    <Compile Include="Models\Winners.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validate\ValidateUtil.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmBookedCaeds.resx">
+      <DependentUpon>FrmBookedCaeds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmBusiness_owner.resx">
+      <DependentUpon>FrmBusiness_owner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmCards.resx">
+      <DependentUpon>FrmCards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmDonors.resx">
+      <DependentUpon>FrmDonors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmMembers.resx">
+      <DependentUpon>FrmMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmOrders.resx">
+      <DependentUpon>FrmOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmPackages.resx">
+      <DependentUpon>FrmPackages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmPayments.resx">
+      <DependentUpon>FrmPayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmProducts.resx">
+      <DependentUpon>FrmProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmWinners.resx">
+      <DependentUpon>FrmWinners.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

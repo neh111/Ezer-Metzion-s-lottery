@@ -1,0 +1,242 @@
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.Cache
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.cache
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.CoreCompileInputs.cache
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.Cache
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.Cache
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+H:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.Cache
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+F:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+F:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+F:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\bin\Debug\Ezer.exe.config
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\bin\Debug\Ezer.exe
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\bin\Debug\Ezer.pdb
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.cache
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.csproj.CoreCompileInputs.cache
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.exe
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.pdb
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.csprojAssemblyReference.cache
+G:\מחשבים\פרויקטים אייר תשפ\נחמי הלפגוט 0504119296\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+G:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+G:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+C:\Users\Helfgot\Desktop\תכנות\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.cache
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.CoreCompileInputs.cache
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+F:\פרויקט בייביסיטר\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+F:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.CoreCompileInputs.cache
+G:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBookedCaeds.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+D:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+D:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBookedCaeds.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.Cache
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+D:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+G:\מחשבים\הלפגוט נחמי\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBookedCaeds.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+J:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+J:\הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBookedCaeds.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.cache
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.CoreCompileInputs.cache
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+J:\הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBookedCaeds.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.Cache
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+D:\פרויקט גמור שלב ראשון הגרלה עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojAssemblyReference.cache
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBookedCaeds.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.cache
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.CoreCompileInputs.cache
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+E:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csprojResolveAssemblyReference.cache
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBookedCaeds.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.Cache
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+D:\פרויקט שלי עזר מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\bin\Debug\Ezer.exe.config
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\bin\Debug\Ezer.exe
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\bin\Debug\Ezer.pdb
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.csprojAssemblyReference.cache
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Form1.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBookedCaeds.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmBusiness_owner.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmCards.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmDonors.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmMembers.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmOrders.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPackages.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmPayments.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmProducts.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Gui.FrmWinners.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.Properties.Resources.resources
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.GenerateResource.cache
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.csproj.CoreCompileInputs.cache
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.exe
+E:\תכנות\יב\פרויקט_שלי_עזר_מציון\Ezer\Ezer\obj\Debug\Ezer.pdb
